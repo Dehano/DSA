@@ -5,3 +5,10 @@ there were no other contributers in this assignment even though I communicated n
 In order to run the project, first, install JRE and JDK(program for for netbeans IDE, Eclipse IDE).
 import program file to netbeans IDE, Eclipse IDE and run the code.
 reference- code-projects.org
+
+group members 
+Dehano Schroeder 221028579
+Tangeni Kufuna 220114056
+Nelson Olabanji 221057838
+Iilonga Ismael 221100962
+Jonas Sirumbu 222023783
